@@ -1,6 +1,6 @@
 # BMI-Calculator-iOS13-App
 
-Practiced iOS Swift development by creating a ‘Egg Timer App'
+Practiced Swift development by creating a 'BMI Calculator App' to work on iOS MVC design pattern.
 
 ![alt-text](BMI.gif)
 
