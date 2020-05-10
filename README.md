@@ -1,6 +1,6 @@
 # BMI-Calculator-iOS13-App
 
-Practiced Swift development by creating a 'BMI Calculator App' to work on iOS MVC design pattern.
+Practiced Swift iOS development by creating a 'BMI Calculator App' learning how to use segues and to work on iOS MVC design pattern.
 
 ![alt-text](BMI.gif)
 
